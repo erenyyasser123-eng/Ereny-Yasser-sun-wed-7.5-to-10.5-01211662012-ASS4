@@ -14,7 +14,7 @@ body {
   background: white;
 }
 
-/* ================= HERO ================= */
+
 
 .hero {
   height: 400px;
@@ -38,7 +38,7 @@ body {
   gap: 45px;
 }
 
-/* TEXT */
+
 
 .hero-text {
   width: 300px;
@@ -98,7 +98,7 @@ body {
   font-weight: bold;
 }
 
-/* TECHNOLOGY CARD */
+
 
 .technology-card {
   width: 250px;
@@ -221,7 +221,7 @@ body {
   font-size: 7px;
 }
 
-/* ================= NAVBAR ================= */
+
 
 .navbar {
   height: 40px;
@@ -279,7 +279,7 @@ body {
   color: #555;
 }
 
-/* ================= RESOURCES ================= */
+
 
 .resources {
   min-height: 830px;
@@ -307,7 +307,7 @@ body {
   font-size: 7px;
 }
 
-/* ================= CARDS ================= */
+
 
 .cards {
   width: 650px;
@@ -349,7 +349,7 @@ body {
   border: 1px solid #f0b8b8;
 }
 
-/* CARD HEADING */
+
 
 .card-heading {
   display: flex;
@@ -429,7 +429,7 @@ body {
   background: #ffe0e0;
 }
 
-/* CARD TEXT */
+
 
 .card > p {
   color: #777;
@@ -485,7 +485,6 @@ body {
   border-color: #c03939;
 }
 
-/* ================= OTHER SECTIONS ================= */
 
 .page-section {
   min-height: 350px;
@@ -519,7 +518,6 @@ body {
   font-size: 13px;
 }
 
-/* ================= FOOTER ================= */
 
 footer {
   height: 160px;
@@ -567,7 +565,7 @@ footer button {
   font-size: 7px;
 }
 
-/* ================= RESPONSIVE ================= */
+
 
 @media (max-width: 700px) {
   .hero {
